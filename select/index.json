@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Lose My Mind [From F1® The Movie]（feat. Doja Cat）",
+  "base_artist": "Don Toliver",
+  "createdAt": "2026-04-02T22:15:27.551647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lose My Mind [From F1® The Movie] (feat. Doja Cat)",
+      "artist": "Song",
+      "has_synced": true,
+      "path": "select/01_Lose_My_Mind_[From_F1®_The_Movie]_(feat._Doja_Cat)_Song.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lose My Mind [From F1® The Movie] (feat. Doja Cat)",
+      "artist": "Song, Don Toliver",
+      "has_synced": true,
+      "path": "select/02_Lose_My_Mind_[From_F1®_The_Movie]_(feat._Doja_Cat)_Song,_Don_Toliver.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lose My Mind [From F1® The Movie] (feat. Doja Cat)",
+      "artist": "Don Toliver",
+      "has_synced": true,
+      "path": "select/03_Lose_My_Mind_[From_F1®_The_Movie]_(feat._Doja_Cat)_Don_Toliver.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lose My Mind (From \"F1® The Movie\") [feat. Doja Cat]",
+      "artist": "Don Toliver",
+      "has_synced": true,
+      "path": "select/04_Lose_My_Mind_(From__F1®_The_Movie_)_[feat._Doja_Cat]_Don_Toliver.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lose My Mind (From F1® The Movie) [feat. Doja Cat]",
+      "artist": "Doppelgänger",
+      "has_synced": false,
+      "path": "select/05_Lose_My_Mind_(From_F1®_The_Movie)_[feat._Doja_Cat]_Doppelgänger.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lose My Mind (From \"F1® The Movie\") [feat. Doja Cat]",
+      "artist": "Don Toliver Feat. Doja Cat",
+      "has_synced": true,
+      "path": "select/06_Lose_My_Mind_(From__F1®_The_Movie_)_[feat._Doja_Cat]_Don_Toliver_Feat._Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lose My Mind (From \"F1® The Movie\") [feat. Doja Cat]",
+      "artist": "V.A.",
+      "has_synced": true,
+      "path": "select/07_Lose_My_Mind_(From__F1®_The_Movie_)_[feat._Doja_Cat]_V.A..lrc"
+    }
+  ]
+}
